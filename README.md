@@ -2,7 +2,9 @@
 
 Nama : Nur Rochman  
 NIU : 493623
+
 Sesi : Jumat pagi
+
 Secret String : c6128fe26f05051b2ea6e208bab5258c1b1e8d902a5861ec66db682bd56998f520250523012405
 
 ## Checklist Responsi
